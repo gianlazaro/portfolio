@@ -12,6 +12,7 @@ function App() {
         <h2>About</h2>
         <p>
           Hello! 👋 I am a full-stack software engineer looking for opportunities to <em>grow and learn.</em> From my experience in the military, I thrive in a <em>collaborative, fast-paced work environment.</em>
+          <br/><br/>Check out my <a href="https://codepen.io/_gianlazaro">Codepen</a> where I experiment on frontend and UI/UX!
           <LinkWrapper>
             <a href="https://github.com/gianlazaro" target="_blank">
               <BsGithub size="1.25em" className="linkIcon"/>
